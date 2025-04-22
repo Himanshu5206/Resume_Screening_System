@@ -33,13 +33,6 @@ Start the Streamlit application:
 streamlit run app.py
 ```
 
-## 📸 Screenshots
-![Resume Checker Screenshot](screenshot1.png)
-
-![Resume Checker Screenshot](screenshot2.png)
-
-![Resume Checker Screenshot](screenshot3.png)
-
 
 
 ## 📑 File Structure
